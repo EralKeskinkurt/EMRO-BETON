@@ -9,8 +9,8 @@
       <h2 class="text-[20px] text-white">Bizimle iletişime geçin</h2>
       <span class="w-[30px] bg-white h-[2px]"></span>
       <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="ph:phone-fill" size="23px"/> 1-800-700-600</span>
-      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="material-symbols:mail-rounded" size="23px"/> info@bold-themes.com</span>
-      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all"  name="ic:baseline-location-on" size="23px"/> 60 East 65th Street, New York <br> City, NY 10065</span>
+      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="material-symbols:mail-rounded" size="23px"/> emrobeton@hotmail.com</span>
+      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all"  name="ic:baseline-location-on" size="23px"/> Yeni Yol Mahallesi <br> Emro Beton İdari Binası Kat 2</span>
       <div class="flex items-center gap-3 mt-4">
         <a href="https://www.facebook.com/profile.php?id=100094546605349" class="before:content-[''] before:w-[0px] before:h-[0px] hover:before:w-[50px] hover:before:h-[50px] before:rounded-full before:duration-300 before:transition-all  hover:before:scale-100 hover:before:bg-white before:absolute relative flex group items-center justify-center w-[42px] h-[42px] bg-transparent border-[2px] border-white rounded-full overflow-hidden">
           <Icon class="z-10 group-hover:text-[#111112] text-white" name="ion:social-facebook" size="25px" />
@@ -23,25 +23,25 @@
     <div class="flex flex-col items-start gap-2 justify-start">
       <h2 class="text-[20px] text-white">Hizmetlerimiz</h2>
       <span class="w-[30px] bg-white h-[2px] mt-2"></span>
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Bathtub Installation</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Yol Yapımı ve Altyapı Hizmetleri</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Dry Sanitation</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">İnşaat Projeleri</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Solder Copper</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Bahçe Düzenlemesi ve Peyzaj Hizmetleri</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Basic Sanitation</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">İnşaat Malzemeleri Tedariki</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
     </div>
     <div class="flex flex-col items-start gap-2 justify-start">
-      <h2 class="text-[20px] text-white">Emergency Tips</h2>
+      <h2 class="text-[20px] text-white">Yapılan Bazı Çalışmalar</h2>
       <span class="w-[30px] bg-white h-[2px] mt-2"></span>
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Electrical Services</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">BETON SANTRALLERİ</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Appliances Installation</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">KONKASÖR SANTRALLERİ</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Maintenance & Repair</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">AGREGA OCAKLARI</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Drain Cleaning</span>
+      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">D.S.İ. 26. BÖLGE MÜDÜRLÜĞÜ</span>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
     </div>
   </div>

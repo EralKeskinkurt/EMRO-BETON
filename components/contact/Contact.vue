@@ -41,7 +41,8 @@
           </div>
           <div class="flex flex-col items-start gap-4 text-black px-8 py-20">
             <span class="text-[20px] font-[600]">EMAIL</span>
-            <p class="text-[16px] font-[500]">office@bold-themes.com<br> support@bold-themes.com</p>
+            <p class="text-[16px] font-[500]">emrobeton@hotmail.com <br>
+              emrobeton@gmail.com</p>
           </div>
         </div>
       </div>

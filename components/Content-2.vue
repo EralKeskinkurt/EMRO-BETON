@@ -1,32 +1,28 @@
 <template>
-  <section class="flex flex-col items-center justify-center bg-[#FFFFFF] h-[860px] xl:h-[860px] max-lg:h-[1200px] max-md:h-[1200px] max-sm:h-[1200px] w-full relative ">
-    <div class="flex xl:flex max-lg:flex-col max-md:flex-col max-sm:flex-col  items-center justify-between py-4 gap-20">
-      <div class="text-black flex flex-col gap-14 items-center  w-[600px] xl:w-[600px] max-lg:w-[330px] max-md:w-[330px] max-sm:w-[330px] pt-5">
-        <div class="flex flex-col justify-start items-start w-full px-5">
-          <h4 class="text-[13px] text-[#525253] font-[600]">WHAT WE OFFER</h4>
-          <h1 class="text-[40px] xl:text-[40px] max-lg:text-[28px] max-md:text-[28px] max-sm:text-[28px] font-bold">Explore Our Services & Solutions</h1>
+  <section class="flex flex-col items-center justify-center bg-[#FFFFFF] h-auto w-full relative ">
+    <div class="flex flex-wrap  items-center justify-center py-16 gap-10  w-full h-full">
+      <div class="text-black flex flex-col gap-5 items-start justify-start h-auto px-5  w-[50%] xl:w-[50%] max-lg:w-[100%] max-md:w-[100%] max-sm:w-[100%] pt-5">
+        <h1 class="text-[40px] xl:text-[40px] mb-10 max-lg:text-[28px] max-md:text-[28px] max-sm:text-[28px] font-bold">SİZLERE SUNDUĞUMUZ HİZMETLER</h1>
+        <div class="flex items-center gap-2">
+          <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="40px" />
+            <h2 class="text-[16px] font-[600]">Yol Yapımı ve Altyapı Hizmetleri</h2>
         </div>
-        <div class="flex items-start gap-2">
-          <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="56px" />
-          <div class="flex flex-col items-start w-[550px] xl:w-[550px] max-lg:w-[200px] max-md:w-[200px] max-sm:w-[200px]">
-            <h2 class="text-[14px] font-[600]">PIPE LEAKING</h2>
-            <p class="text-[14px] xl:text-[14px] max-lg:text-[11px] max-md:text-[11px] max-sm:text-[11px] ">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to
-              corporate strategy foster collaborative thinking to further the overall value proposition.
-            </p>
-          </div>
+        <div class="flex  items-center gap-2">
+          <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="40px" />
+          <h2 class="text-[16px] font-[600]">İnşaat Projeleri</h2>
         </div>
-        <div class="flex  items-start gap-2">
-          <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="56px" />
-          <div class="flex flex-col items-start w-[550px] xl:w-[550px] max-lg:w-[200px] max-md:w-[200px] max-sm:w-[200px]">
-            <h2 class="text-[14px] font-[600]">PIPE LEAKING</h2>
-            <p class="text-[14px] xl:text-[14px] max-lg:text-[11px] max-md:text-[11px] max-sm:text-[11px]">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to
-              corporate strategy foster collaborative thinking to further the overall value proposition.
-            </p>
-          </div>
+        <div class="flex  items-center gap-2">
+          <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="40px" />
+          <h2 class="text-[16px] font-[600]">Bahçe Düzenlemesi ve Peyzaj Hizmetleri</h2>
         </div>
+        <div class="flex  items-center gap-2">
+          <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="40px" />
+          <h2 class="text-[16px] font-[600]">İnşaat Malzemeleri Tedariki</h2>
+        </div>
+        <nuxt-link to="/services" class="bg-[#2472E7] hover:bg-[#2472E7]/90 font-bold py-2 px-4 rounded-sm mt-3 ml-5">Daha fazla bilgi</nuxt-link>
       </div>
-      <div class="flex items-center justify-center">
-        <img class="w-[500px] xl:w-[500px] max-lg:w-[300px] max-md:w-[300px] max-sm:w-[300px]  h-[600px] xl:h-[600px] max-lg:h-[350px] max-md:h-[350px] max-sm:h-[350px] object-cover" src="../public/images/image-1.jpg" alt="">
+      <div class="w-[40%] xl:w-[40%] max-lg:w-[100%] max-md:w-[100%] max-sm:w-[100%] h-full px-5">
+        <img class="w-full min-h-[460px] object-cover" src="/images/image-1.jpg" alt="">
       </div>
     </div>
   </section>
