@@ -1,0 +1,70 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/types/nitro-imports"
+      ],
+      "#paths": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+      ],
+      "~/*": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+      ],
+      "@": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+      ],
+      "@/*": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+      ],
+      "~~": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+      ],
+      "~~/*": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+      ],
+      "@@": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+      ],
+      "@@/*": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+      ],
+      "assets": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/assets"
+      ],
+      "assets/*": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/assets/*"
+      ],
+      "public": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/public"
+      ],
+      "public/*": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/public/*"
+      ],
+      "#tailwind-config": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/tailwind.config"
+      ],
+      "#tailwind-config/*": [
+        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/tailwind.config/*"
+      ]
+    }
+  },
+  "include": [
+    "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/types/nitro-nuxt.d.ts",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ]
+}
