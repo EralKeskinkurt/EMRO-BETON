@@ -4,7 +4,7 @@
     <div class="flex xl:flex max-lg:flex-col max-md:flex-col max-sm:flex-col  items-center justify-between gap-20">
       <img
           class="w-[300px] xl:w-[300px] max-lg:w-[300px] max-md:w-[300px] max-sm:w-[300px]  h-[600px] xl:h-[600px] max-lg:h-[350px] max-md:h-[350px] max-sm:h-[350px] object-cover"
-          src="images/image-1.jpg" alt="image">
+          src="/images/image-1.jpg" alt="image">
       <div
           class="text-black flex flex-col gap-5 items-start w-[800px] xl:w-[800px] max-lg:w-[330px] max-md:w-[330px] max-sm:w-[330px] mt-16">
         <div class="w-full px-2">
@@ -32,7 +32,7 @@
       </div>
       <img
           class="w-[300px] xl:w-[300px] max-lg:w-[300px] max-md:w-[300px] max-sm:w-[300px]  h-[600px] xl:h-[600px] max-lg:h-[350px] max-md:h-[350px] max-sm:h-[350px] object-cover"
-          src="images/image-1.jpg" alt="image">
+          src="/images/image-1.jpg" alt="image">
     </div>
   </section>
 </template>
