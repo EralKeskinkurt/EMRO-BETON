@@ -1,7 +1,7 @@
 <template>
 <nav class="absolute top-0 z-50 w-full h-[90px] px-[40px] xl:px-[40px] max-lg:px-[30px] max-md:px-[20px] max-sm:px-[20px] bg-black/[0.25] backdrop-blur shadow-[0_0_30px_0_rgba(1,1,1,0.6)] overflow-hidden">
   <div class="flex items-center  w-full h-full justify-between">
-    <img class="h-[60px] xl:h-[60px] lg:h-[60px] max-md:h-[50px] max-sm:h-[50px]" src="/images/logo.svg" alt="Handyman">
+    <img class="h-[60px] xl:h-[60px] lg:h-[60px] max-md:h-[50px] max-sm:h-[50px]" src="/images/logo.svg" alt="Emro Beton Logo">
     <ul class="xl:flex max-lg:hidden max-md:hidden max-sm:hidden flex items-center justify-center text-[13px] font-bold text-white gap-6 h-full">
       <li class="flex gap-6 text-[#BCBCBB]"> <nuxt-link to="/" active-class="active" class="relative hover:text-[#BCBCBB] text-[#2472E7] transition-all">ANASAYFA </nuxt-link> / </li>
       <li class="flex gap-6 text-[#BCBCBB]"> <nuxt-link to="/about" active-class="active" class="relative hover:text-[#BCBCBB] text-[#2472E7] transition-all"> HAKKIMIZDA </nuxt-link> / </li>
@@ -31,7 +31,7 @@
 
 <nav :class="{ 'navbar--hidden': !showNavbar }" class="fixed bg-black/[0.25] backdrop-blur -top-[90px] px-[40px] xl:px-[40px] max-lg:px-[30px] max-md:px-[20px] max-sm:px-[20px] transition-all w-full h-[90px] z-40 shadow-[0_0_30px_0_rgba(1,1,1,0.6)]">
   <div class="flex items-center  w-full h-full justify-between">
-    <img class="h-[60px] xl:h-[60px] lg:h-[60px] max-md:h-[50px] max-sm:h-[50px]" src="images/logo.svg" alt="Handyman">
+    <img class="h-[60px] xl:h-[60px] lg:h-[60px] max-md:h-[50px] max-sm:h-[50px]" src="/images/logo.svg" alt="Emro Beton Logo">
     <ul class="xl:flex max-lg:hidden max-md:hidden max-sm:hidden flex items-center justify-center text-[13px] font-bold text-white gap-6 h-full">
       <li class="flex gap-6 text-[#BCBCBB]"> <nuxt-link to="/" active-class="active" class=" relative hover:text-[#BCBCBB] text-[#2472E7] transition-all">ANASAYFA </nuxt-link> / </li>
       <li class="flex gap-6 text-[#BCBCBB]"> <nuxt-link to="/about" active-class="active" class="relative hover:text-[#BCBCBB] text-[#2472E7] transition-all"> HAKKIMIZDA </nuxt-link> / </li>

@@ -24,7 +24,6 @@
   <Content1 />
   <Content2 />
   <Content3 />
-  <Content4 />
   <Content6 />
 </template>
 
@@ -32,14 +31,13 @@
 import Content1 from "~/components/Content-1.vue";
 import Content2 from "~/components/Content-2.vue"
 import Content3 from "~/components/Content-3.vue"
-import Content4 from "~/components/Content-4.vue"
 import Content6 from "~/components/Content-6.vue"
 import {Swiper, SwiperSlide} from "swiper/vue";
 import {Autoplay, EffectFade} from "swiper"
 import 'swiper/css';
 const slides = [
-  {id: 1, backgroundImg:'public/images/hero-1.jpeg'},
-  {id: 2, backgroundImg:'public/images/hero-2.jpeg'}
+  {id: 1, backgroundImg:'/images/hero-1.jpeg'},
+  {id: 2, backgroundImg:'/images/hero-2.jpeg'}
 ]
 </script>
 

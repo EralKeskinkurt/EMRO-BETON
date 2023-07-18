@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
-    "baseUrl": "C:/Users/oral/OneDrive/Masaüstü/aaa",
+    "baseUrl": "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
@@ -18,70 +18,70 @@
     ],
     "paths": {
       "~": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON"
       ],
       "~/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*"
       ],
       "@": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON"
       ],
       "@/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*"
       ],
       "~~": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON"
       ],
       "~~/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*"
       ],
       "@@": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON"
       ],
       "@@/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*"
       ],
       "assets": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/assets"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/assets"
       ],
       "assets/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/assets/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/assets/*"
       ],
       "public": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/public"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/public"
       ],
       "public/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/public/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/public/*"
       ],
       "#app": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/node_modules/nuxt/dist/app"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/node_modules/nuxt/dist/app/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/node_modules/nuxt/dist/app/compat/vue-demi"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#tailwind-config": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/tailwind.config"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/.nuxt/tailwind.config"
       ],
       "#tailwind-config/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/tailwind.config/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/.nuxt/tailwind.config/*"
       ],
       "#vue-router": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/vue-router"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/.nuxt/vue-router"
       ],
       "#imports": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/imports"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/.nuxt/imports"
       ],
       "#build": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/.nuxt"
       ],
       "#build/*": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/*"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/.nuxt/*"
       ],
       "#components": [
-        "C:/Users/oral/OneDrive/Masaüstü/aaa/.nuxt/components"
+        "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/.nuxt/components"
       ]
     }
   },
@@ -89,14 +89,14 @@
     "./nuxt.d.ts",
     "../**/*",
     "../**/*",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa/*",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa/*",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa/*",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa",
-    "C:/Users/oral/OneDrive/Masaüstü/aaa/*"
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON",
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*",
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON",
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*",
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON",
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*",
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON",
+    "C:/Users/oral/OneDrive/Masaüstü/EMRO-BETON/*"
   ],
   "exclude": [
     "../dist",
