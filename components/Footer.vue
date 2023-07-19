@@ -8,7 +8,7 @@
     <div class="flex flex-col gap-4 items-start justify-start">
       <h2 class="text-[20px] text-white">Bizimle iletişime geçin</h2>
       <span class="w-[30px] bg-white h-[2px]"></span>
-      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="ph:phone-fill" size="23px"/> 1-800-700-600</span>
+      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="ph:phone-fill" size="23px"/>+90</span>
       <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="material-symbols:mail-rounded" size="23px"/> emrobeton@hotmail.com</span>
       <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all"  name="ic:baseline-location-on" size="23px"/> Yeni Yol Mahallesi <br> Emro Beton İdari Binası Kat 2</span>
       <div class="flex items-center gap-3 mt-4">
