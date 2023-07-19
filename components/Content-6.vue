@@ -31,7 +31,7 @@
           </div>
           <div class="flex flex-col items-start gap-4 text-white px-8 py-20">
             <span class="text-[20px] font-[600]">OFİS TELEFEONU</span>
-            <p class="text-[16px] font-[500]">+ 1 555 9345 677 <br> + 1 555 9345 678 <br> + 1 555 9345 679</p>
+            <p class="text-[16px] font-[500]">+90</p>
           </div>
         </div>
       </div>
