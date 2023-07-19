@@ -23,25 +23,25 @@
     <div class="flex flex-col items-start gap-2 justify-start">
       <h2 class="text-[20px] text-white">Hizmetlerimiz</h2>
       <span class="w-[30px] bg-white h-[2px] mt-2"></span>
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Yol Yapımı ve Altyapı Hizmetleri</span>
+      <nuxt-link to="/services" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Yol Yapımı ve Altyapı Hizmetleri</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">İnşaat Projeleri</span>
+      <nuxt-link to="/services" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">İnşaat Projeleri</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Bahçe Düzenlemesi ve Peyzaj Hizmetleri</span>
+      <nuxt-link to="/services" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">Bahçe Düzenlemesi ve Peyzaj Hizmetleri</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">İnşaat Malzemeleri Tedariki</span>
+      <nuxt-link to="/services" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">İnşaat Malzemeleri Tedariki</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
     </div>
     <div class="flex flex-col items-start gap-2 justify-start">
       <h2 class="text-[20px] text-white">Yapılan Bazı Çalışmalar</h2>
       <span class="w-[30px] bg-white h-[2px] mt-2"></span>
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">BETON SANTRALLERİ</span>
+      <nuxt-link to="/about" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">BETON SANTRALLERİ</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">KONKASÖR SANTRALLERİ</span>
+      <nuxt-link to="/about" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">KONKASÖR SANTRALLERİ</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">AGREGA OCAKLARI</span>
+      <nuxt-link to="/about" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">AGREGA OCAKLARI</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
-      <span class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">D.S.İ. 26. BÖLGE MÜDÜRLÜĞÜ</span>
+      <nuxt-link to="/about" class="text-[13px] text-white mt-2 cursor-pointer hover:text-[#ffcb01] transition-all">D.S.İ. 26. BÖLGE MÜDÜRLÜĞÜ</nuxt-link>
       <hr class="border-gray-500 w-[130px] h-[1px] mt-2" />
     </div>
   </div>

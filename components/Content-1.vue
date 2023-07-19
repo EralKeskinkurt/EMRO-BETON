@@ -10,7 +10,7 @@
           <div class="flex flex-col items-start justify-end gap-4 text-white px-8 mt-16">
             <span class="text-[20px] font-[600]">HAZIR BETON</span>
             <p class="text-[16px] font-[400]">Yüksek kaliteli ve dayanıklı beton üretimi sağlama. Farklı mukavemet sınıflarında beton üretebilme.</p>
-            <nuxt-link to="/products" class="text-[#2472E7] font-bold text-[12px]" >Dahaf fazla</nuxt-link>
+            <nuxt-link to="/products" class="text-[#2472E7] font-bold text-[12px] underline" >DAHA FAZLA</nuxt-link>
           </div>
         </div>
       </div>
@@ -23,7 +23,7 @@
           <div class="flex flex-col items-start justify-end gap-4 text-white px-8 mt-16">
             <span class="text-[20px] font-[600]">BYPASS</span>
             <p class="text-[16px] font-[400]">Bypass dolgu malzemeleri, geçici olarak bir alanı veya yapıyı kapatmak, yönlendirmek veya değiştirmek için kullanılan malzemelerdir.</p>
-            <nuxt-link to="/products" class="text-[#111112] font-bold text-[12px]" >Dahaf fazla</nuxt-link>
+            <nuxt-link to="/products" class="text-[#111112] font-bold text-[12px] underline" >DAHA FAZLA</nuxt-link>
           </div>
         </div>
       </div>
@@ -36,7 +36,7 @@
           <div class="flex flex-col items-start justify-end gap-4 text-white px-8 mt-16">
             <span class="text-[20px] font-[600]">OLUK</span>
             <p class="text-[16px] font-[400]">Yağmur suyunun tahliyesini sağlayan beton veya metal yapı elemanları.</p>
-            <nuxt-link to="/products" class="text-[#2472E7] font-bold text-[12px]" >Dahaf fazla</nuxt-link>
+            <nuxt-link to="/products" class="text-[#2472E7] font-bold text-[12px] underline" >DAHA FAZLA</nuxt-link>
           </div>
         </div>
       </div>

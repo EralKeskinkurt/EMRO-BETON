@@ -9,7 +9,7 @@
         </div>
         <div class="flex  items-center gap-2">
           <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="40px" />
-          <h2 class="text-[16px] font-[600]">İnşaat Projeleri</h2>
+          <h2 class="text-[16px] font-[600]">Proje Çalışmaları</h2>
         </div>
         <div class="flex  items-center gap-2">
           <Icon class="hover:text-[#111121] text-[#2472E7] transition-all" name="iconamoon:3d" size="40px" />
@@ -22,7 +22,7 @@
         <nuxt-link to="/services" class="bg-[#2472E7] hover:bg-[#2472E7]/90 font-bold py-2 px-4 rounded-sm mt-3 ml-5">Daha fazla bilgi</nuxt-link>
       </div>
       <div class="w-[40%] xl:w-[40%] max-lg:w-[100%] max-md:w-[100%] max-sm:w-[100%] h-full px-5">
-        <img class="w-full min-h-[460px] object-cover" src="/images/image-1.jpg" alt="">
+        <img class="w-full min-h-[460px] object-cover" src="/images/emrobeton-6.jpeg" alt="">
       </div>
     </div>
   </section>

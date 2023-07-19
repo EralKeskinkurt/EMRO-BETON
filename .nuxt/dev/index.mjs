@@ -1028,7 +1028,7 @@ const renderer$1 = /*#__PURE__*/Object.freeze({
   default: renderer
 });
 
-const _virtual__headStatic = {"headTags":"<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">","bodyTags":"","bodyTagsOpen":"","htmlAttrs":"","bodyAttrs":""};
+const _virtual__headStatic = {"headTags":"<meta charset=\"utf-8\">\n<title>EMRO BETON - Beton Ürünleri, Malzemeler ve Hizmetler</title>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"description\" content=\"EMRO BETON, Artvin / Borçka ilçesinde faaliyet gösteren bir şantiye şirketidir. Hazır beton, bordür, oluk, parke, kaldırım taşı, micir, kum, çakıl ve bypass dolgu malzemeleri gibi çeşitli beton ürünleri sunmaktadır. Aynı zamanda yol yapımı, altyapı hizmetleri, proje çalışmaları, bahçe düzenlemesi, peyzaj hizmetleri ve inşaat malzemeleri tedariki gibi çeşitli hizmetler de sağlar. Kaliteli çözümler için bize ulaşın.\">\n<meta name=\"keywords\" content=\"EMRO BETON, Artvin, Borçka, şantiye şirketi, hazır beton, bordür, oluk, parke, kaldırım taşı, micir, kum, çakıl, bypass dolgu malzemeleri, yol yapımı, altyapı hizmetleri, proje çalışmaları, bahçe düzenlemesi, peyzaj hizmetleri, inşaat malzemeleri\">\n<meta name=\"author\" content=\"EMRO BETON\">","bodyTags":"","bodyTagsOpen":"","htmlAttrs":"","bodyAttrs":""};
 
 const _virtual__headStatic$1 = /*#__PURE__*/Object.freeze({
   __proto__: null,

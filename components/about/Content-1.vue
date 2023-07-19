@@ -13,7 +13,7 @@
       <div class="flex items-center justify-center">
         <img
             class="w-[500px] xl:w-[500px] max-lg:w-[300px] max-md:w-[300px] max-sm:w-[300px]  h-[600px] xl:h-[600px] max-lg:h-[350px] max-md:h-[350px] max-sm:h-[350px] object-cover"
-            src="/images/hero-1.jpeg" alt="">
+            src="/images/emrobeton-3.jpeg" alt="">
       </div>
     </div>
   </section>
