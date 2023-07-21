@@ -3,9 +3,9 @@
     <div class="flex xl:flex max-lg:flex-col max-md:flex-col max-sm:flex-col w-auto xl:w-auto max-lg:w-full max-md:w-full max-sm:w-full items-center justify-center">
       <div class="flex flex-col items-center justify-start w-[300px] h-[260px] bg-[#111112]">
         <div class="w-full relative">
-          <div class="before:content-[''] before:w-[0px] before:h-[0px] hover:before:w-[68px] hover:before:h-[68px] before:transition-all hover:before:scale-100  hover:before:bg-[#111112] before:absolute absolute flex group items-center justify-center -top-8 left-8 w-[68px] h-[68px] bg-[#2472E7]">
+          <a href="https://goo.gl/maps/y9xdmDhvpvTaCMjA9" class="before:content-[''] before:w-[0px] before:h-[0px] hover:before:w-[68px] hover:before:h-[68px] before:transition-all hover:before:scale-100  hover:before:bg-[#111112] before:absolute absolute flex group items-center justify-center -top-8 left-8 w-[68px] h-[68px] bg-[#2472E7]">
             <Icon class="z-10 text-[#111112] group-hover:text-[#2472E7]" name="material-symbols:location-on" size="55px" />
-          </div>
+          </a>
           <div class="flex flex-col items-start gap-4 text-white px-8 py-20">
             <span class="text-[20px] font-[600]">KONUM</span>
             <p class="text-[16px] font-[500]">Yeni Yol Mahallesi <br> Emro Beton <br> İdari Binası Kat 2</p>
@@ -25,12 +25,12 @@
       </div>
       <div class="flex flex-col items-center justify-start w-[300px] h-[260px] bg-[#111112]">
         <div class="w-full relative">
-          <div class="before:content-[''] before:w-[0px] before:h-[0px] hover:before:w-[68px] hover:before:h-[68px] before:transition-all hover:before:scale-100  hover:before:bg-[#111112] before:absolute absolute flex group items-center justify-center -top-8 left-8 w-[68px] h-[68px] bg-[#2472E7]">
+          <a href="tel:0466 415 1060" class="before:content-[''] before:w-[0px] before:h-[0px] hover:before:w-[68px] hover:before:h-[68px] before:transition-all hover:before:scale-100  hover:before:bg-[#111112] before:absolute absolute flex group items-center justify-center -top-8 left-8 w-[68px] h-[68px] bg-[#2472E7]">
             <Icon class="z-10 text-[#111112] group-hover:text-[#2472E7]" name="material-symbols:phone-android-outline" size="55px" />
-          </div>
+          </a>
           <div class="flex flex-col items-start gap-4 text-white px-8 py-20">
             <span class="text-[20px] font-[600]">OFİS TELEFEONU</span>
-            <p class="text-[16px] font-[500]">+90</p>
+            <a href="tel:0466 415 1060" class="text-[16px] font-[500]">0466 415 1060</a>
           </div>
         </div>
       </div>
@@ -41,8 +41,7 @@
           </div>
           <div class="flex flex-col items-start gap-4 text-black px-8 py-20">
             <span class="text-[20px] font-[600]">EMAIL</span>
-            <p class="text-[16px] font-[500]">emrobeton@hotmail.com <br>
-              emrobeton@gmail.com</p>
+            <p class="text-[16px] font-[500]">emrobeton@hotmail.com<br> emrobeton@gmail.com</p>
           </div>
         </div>
       </div>
