@@ -8,9 +8,9 @@
     <div class="flex flex-col gap-4 items-start justify-start">
       <h2 class="text-[20px] text-white">Bizimle iletişime geçin</h2>
       <span class="w-[30px] bg-white h-[2px]"></span>
-      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="ph:phone-fill" size="23px"/>+90</span>
+      <a href="tel:0466 415 1060" class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="ph:phone-fill" size="23px"/>0466 415 1060</a>
       <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all" name="material-symbols:mail-rounded" size="23px"/> emrobeton@hotmail.com</span>
-      <span class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all"  name="ic:baseline-location-on" size="23px"/> Yeni Yol Mahallesi <br> Emro Beton İdari Binası Kat 2</span>
+      <a href="https://goo.gl/maps/y9xdmDhvpvTaCMjA9" class="text-white text-[13px] flex items-center gap-2"><Icon class="text-[#2472E7] hover:text-white transition-all"  name="ic:baseline-location-on" size="23px"/> Yeni Yol Mahallesi <br> Emro Beton İdari Binası Kat 2</a>
       <div class="flex items-center gap-3 mt-4">
         <a href="https://www.facebook.com/profile.php?id=100094546605349" class="before:content-[''] before:w-[0px] before:h-[0px] hover:before:w-[50px] hover:before:h-[50px] before:rounded-full before:duration-300 before:transition-all  hover:before:scale-100 hover:before:bg-white before:absolute relative flex group items-center justify-center w-[42px] h-[42px] bg-transparent border-[2px] border-white rounded-full overflow-hidden">
           <Icon class="z-10 group-hover:text-[#111112] text-white" name="ion:social-facebook" size="25px" />
